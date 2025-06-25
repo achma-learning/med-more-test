@@ -4,3 +4,7 @@
 ## downloaded by google takeout: https://takeout.google.com/
 ### just an idea: https://sites.google.com/view/med-more-by-aymane-test/accueil
 ### this what i got: https://achma-learning.github.io/med-more-test/
+#### To Do _____________________________
+#### fix css
+#### organise page Sxp/m into folder
+#### optimise tree file
