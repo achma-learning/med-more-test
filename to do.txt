@@ -9,3 +9,6 @@ use ai, grok or gemini or chatgpt
 n.b: new module for new system
 
 have the additional website: from work
+
+---
+try to benefits from this page styling; https://meded.ucsd.edu/clinicalmed/introduction.html
