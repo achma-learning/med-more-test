@@ -8,3 +8,6 @@
 #### fix css
 #### organise page Sxp/m into folder
 #### optimise tree file
+
+# ideas: how about using obsidian site <img width="359" height="540" alt="image" src="https://github.com/user-attachments/assets/9607d826-d0ab-4fdf-a1f4-5f7931bf03aa" />
+# or google site + obsidian
