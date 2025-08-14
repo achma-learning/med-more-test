@@ -1,3 +1,6 @@
+### the thing i thing is good, is to give the desing with google site to a web developer then pay him to make a similar copy of it in github, or ...,
+#### problem is that comment will disappear and comment have good link sometimes
+# https://www.gitbook.com/
 # med-more-test
 ## learn this desing: https://conferencedesdoyensdemedecine.org/
 # originale: https://www.med-more.com/
