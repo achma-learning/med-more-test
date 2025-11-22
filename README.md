@@ -1,3 +1,6 @@
+# how about creating a userscript that copy the html of google site and export it for github use,
+# userscript that optimise med-more structure based on google site structure and keep comments, and make it easier to add new entries to website, using google site or others
+
 ### the thing i thing is good, is to give the desing with google site to a web developer then pay him to make a similar copy of it in github, or ...,
 #### problem is that comment will disappear and comment have good link sometimes
 # https://www.gitbook.com/
